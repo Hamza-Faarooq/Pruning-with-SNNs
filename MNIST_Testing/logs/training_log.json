@@ -1,0 +1,45 @@
+{
+  "snn_final_acc": 98.12,
+  "ann_final_acc": 98.17,
+  "snn_ann_gap": 0.04999999999999716,
+  "num_steps": 10,
+  "epochs": 25,
+  "training_curve": [
+    {
+      "epoch": 1,
+      "train_acc": 82.815,
+      "test_acc": 94.58,
+      "loss": 0.5173147572046619
+    },
+    {
+      "epoch": 5,
+      "train_acc": 97.94666666666667,
+      "test_acc": 97.6,
+      "loss": 0.06819275974974794
+    },
+    {
+      "epoch": 10,
+      "train_acc": 99.15,
+      "test_acc": 98.03,
+      "loss": 0.028147671079673503
+    },
+    {
+      "epoch": 15,
+      "train_acc": 99.70333333333333,
+      "test_acc": 98.17,
+      "loss": 0.013662760323544933
+    },
+    {
+      "epoch": 20,
+      "train_acc": 99.835,
+      "test_acc": 98.1,
+      "loss": 0.008895893762740543
+    },
+    {
+      "epoch": 25,
+      "train_acc": 99.87166666666667,
+      "test_acc": 98.11,
+      "loss": 0.007795475381900067
+    }
+  ]
+}
